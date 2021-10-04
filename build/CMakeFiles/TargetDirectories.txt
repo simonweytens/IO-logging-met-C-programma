@@ -1,0 +1,3 @@
+/home/pi/C programming/Opdracht1/mariadbTest/build/CMakeFiles/rebuild_cache.dir
+/home/pi/C programming/Opdracht1/mariadbTest/build/CMakeFiles/Opdracht1.dir
+/home/pi/C programming/Opdracht1/mariadbTest/build/CMakeFiles/edit_cache.dir

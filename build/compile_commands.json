@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/pi/C programming/Opdracht1/mariadbTest/build",
+  "command": "/usr/bin/cc  -I/usr/include/mariadb -I/usr/include/mariadb/mysql  -g   -o CMakeFiles/Opdracht1.dir/test.c.o   -c \"/home/pi/C programming/Opdracht1/mariadbTest/test.c\"",
+  "file": "/home/pi/C programming/Opdracht1/mariadbTest/test.c"
+}
+]

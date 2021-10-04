@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Test.dir/test.c.o  -o Test  -lmariadb 
